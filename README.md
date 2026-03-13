@@ -65,5 +65,7 @@ python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.001 --price
 ## Logging
 Logs are saved to `logs/trading_bot.log` and also printed to the console.
 
+![alt text](image.png)
+
 ## Safety Note
 This bot is configured for **TESTNET ONLY**. Never use mainnet keys with this configuration without modification.
