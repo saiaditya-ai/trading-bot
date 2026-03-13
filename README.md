@@ -64,7 +64,7 @@ python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.001 --price
 
 ## Logging
 Logs are saved to `logs/trading_bot.log` and also printed to the console.
-
+## Requests that are executed on the futures
 ![alt text](image.png)
 
 ## Safety Note
